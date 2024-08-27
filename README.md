@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Je.zzz
 - 👀 I’m interested in programing 
-- 🌱 I’m currently learning OOP,JAVA, PYTHON, NETWORKING 
+- 🌱 I’m currently learning OOP,JAVA, PYTHON, NETWORKING ,HTML ,CSS
 - 
 
 <!---
