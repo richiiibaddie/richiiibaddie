@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @richiiibaddie
+- 👋 Hi, I’m @Je.zzz
 - 👀 I’m interested in programing 
 - 🌱 I’m currently learning OOP,JAVA, PYTHON, NETWORKING 
 - 
